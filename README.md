@@ -5,4 +5,4 @@ https://drive.google.com/drive/folders/1YoIapcnZeYVvCkHiInvufReseqb-PYHO?usp=sha
 The Link of the Testing Data: 
 https://drive.google.com/drive/folders/1Rn44NMAqL1iscE_-z6sRWCDkUjN_-anb?usp=sharing
 
-This model is accurate by 60% & we can increase the accurancy by increasing the number of (EPOCHS) iterations.
+The accuracy of this model is about 80% & if we want to increase the accuracy, we can randomize the classes after every (EPOCHS) iteration.
